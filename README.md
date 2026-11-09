@@ -1,1 +1,23 @@
-# DENEME
+
+ajanlar.json
+kopru.json
+CLAUDE.local.md
+
+# çalışma verisi: koşu logları, olaylar, durum, çıktılar, hafıza içeriği
+olaylar.jsonl
+durum/
+kosular/
+cikti/
+hafiza/*
+!hafiza/.gitkeep
+port
+*.log
+
+# sırlar
+.env
+.env.*
+
+# python / sistem
+__pycache__/
+*.pyc
+.DS_Store
